@@ -3,8 +3,9 @@ name: speed-of-iteration-diagnostic
 description: Diagnose whether a team or organization is shipping fast enough and create a culture of iteration over perfection.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5033
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - speed-of-iteration-diagnostic
 - writing
