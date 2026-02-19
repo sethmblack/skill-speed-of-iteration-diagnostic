@@ -4,7 +4,7 @@ description: Diagnose whether a team or organization is shipping fast enough and
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5033
+  version: 1.0.5034
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - speed-of-iteration-diagnostic
